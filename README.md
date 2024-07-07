@@ -22,11 +22,9 @@ We will not adhere strictly to any single textbook but rely on some sections of 
 
 - [GRS] Grimmer, J., Roberts, M.E. and Stewart, B.M., 2022. Text as data: A new
 framework for machine learning and the social sciences. Princeton University Press.
-[link]
 
 - [JM] Jurafsky, D. and Martin, J.H., Speech and Language Processing: An Introduction
 to Natural Language Processing, Computational Linguistics, and Speech Recognition.
-[link]
 
 ### Session I
 
