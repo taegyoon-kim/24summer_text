@@ -41,7 +41,7 @@ to Natural Language Processing, Computational Linguistics, and Speech Recognitio
     - [GRS] Chp. 18 “Coding a Training Set”
     - [GRS] Chp. 19 “Classifying Documents with Supervised Learning”
     - [GRS] Chp. 20 “Checking Performance
-    - Siegel, A.A., Nikitin, E., Barber ́a, P., Sterling, J., Pullen, B., Bonneau, R., Nagler,
+    - Siegel, A.A., Nikitin, E., Barbera, P., Sterling, J., Pullen, B., Bonneau, R., Nagler,
 J. and Tucker, J.A., 2021. Trumping hate on Twitter? Online hate speech in the 2016 US election campaign and its aftermath. Quarterly Journal of Political Science, 16(1), pp.71-104.
 
 ### Session II
