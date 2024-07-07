@@ -68,5 +68,5 @@ Science Review, 113(4), pp.883-901
 
 ## Tutorials
 
-The workshop will invovle guided coding (or tutorials) using Python. Little prior experience in the language is assumed. Note that students are expected to bring their own computing device.
+The workshop will invovle guided coding (or tutorials) using Python. Little prior experience in the language is assumed. Note that students are expected to **bring their own computing device**.
 
