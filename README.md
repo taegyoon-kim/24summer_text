@@ -5,7 +5,7 @@
 
 ## Time and location
 
-- Time: 9:30-12:00pm (Session I) & 2:00-4:30pm (Session II), July 11 
+- Time: 9:00-11:30am (Session I) & 2:00-4:30pm (Session II), July 11 
 - Location: 61907 Suseongwan, SKKU (성균관대 수선관 61907)
 
 
